@@ -1,11 +1,9 @@
-TypeScript Webpack Base Project Lastest
-=======================================
+Html Forms Get Form Demo
+========================
 
-Always update with latest versions and technologies.
+How to get form from html page.
 
 ```
 npm install
 npm run dev
 ```
-
-![demo](./images/demo.jpg)
